@@ -1,0 +1,7 @@
+fsm.c:13:6:count_up	4	static
+fsm.c:19:6:count_down	4	static
+fsm.c:28:6:fsm_simple_buttons_run	8	static
+fsm.c:109:6:fsm_long_press_buttons_run	8	static
+fsm.c:146:6:fsm_time_out	8	static
+fsm.c:199:6:display7SEG	16	static
+fsm.c:242:6:led_blink	8	static

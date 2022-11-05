@@ -1,0 +1,9 @@
+button_reading.c:34:6:button_reading	16	static
+button_reading.c:91:5:is_reset_button_pressed	4	static
+button_reading.c:101:5:is_inc_button_pressed	4	static
+button_reading.c:111:5:is_dec_button_pressed	4	static
+button_reading.c:122:5:is_inc_button_keep_pressed	4	static
+button_reading.c:133:5:is_dec_button_keep_pressed	4	static
+button_reading.c:143:5:is_inc_button_released	4	static
+button_reading.c:152:5:is_dec_button_released	4	static
+button_reading.c:161:5:auto_decrease	4	static
